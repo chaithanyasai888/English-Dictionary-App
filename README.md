@@ -37,7 +37,7 @@ Similarly, when choice 3 is entered, it should accept a word and update its mean
 CHOICE 4 : 
 If choice 4 is selected, a graceful exit should be performed.
 
-In all the above three cases, the prompt should return to the main menu. 
+In all the above three cases, the prompt should returns to the main menu. 
 
 
 
